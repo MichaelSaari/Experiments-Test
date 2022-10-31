@@ -1,0 +1,9 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+    height: calc(100vh - 60px);
+    width: 100vw; /* I add this and then changed the height from 100%*/
+    font-family: 'Open Sans', sans-serif;
+    background: #000000;  /*this was white before */
+}
